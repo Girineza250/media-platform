@@ -10,7 +10,7 @@ A streamlined media platform with upload, watermarking, and purchase unlock func
 ✅ **Purchase System**: Pay to unlock original files  
 ✅ **Download Access**: Download originals after purchase  
 ✅ **Admin Dashboard**: View stats and manage media  
-
+✅ ****you Open the theDeployed Website here  https://preview-project-upload-issue-kzmolcs67742klx1pr8z.vusercontent.net/ **
 ## Quick Start
 
 1. **Install dependencies**:
@@ -31,6 +31,7 @@ A streamlined media platform with upload, watermarking, and purchase unlock func
    \`\`\`
 
 4. **Access the app**:
+   - 
    - Visit: http://localhost:3000
    - Demo User: `user@example.com` / `user123`
    - Demo Admin: `admin@example.com` / `admin123`
